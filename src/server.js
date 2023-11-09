@@ -1,5 +1,5 @@
-export const server = "https://good-puce-walrus-robe.cyclic.app/api/v2";
+export const server = "https://cute-sunglasses-ray.cyclic.app/api/v2";
 
-export const backend_url = "https://good-puce-walrus-robe.cyclic.app/"
+export const backend_url = "https://cute-sunglasses-ray.cyclic.app/"
 
 
