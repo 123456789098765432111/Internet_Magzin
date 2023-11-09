@@ -1,5 +1,5 @@
-export const server = "https://grand-shop-btis.vercel.app/api/v2";
+export const server = "https://gleaming-eel-tam.cyclic.app/api/v2";
 
-export const backend_url = "https://grand-shop-btis.vercel.app/"
+export const backend_url = "https://gleaming-eel-tam.cyclic.app/"
 
 
