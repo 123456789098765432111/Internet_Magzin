@@ -1,5 +1,5 @@
-export const server = "https://gleaming-eel-tam.cyclic.app/api/v2";
+export const server = "https://drab-erin-meerkat-shoe.cyclic.app/api/v2";
 
-export const backend_url = "https://gleaming-eel-tam.cyclic.app/"
+export const backend_url = "https://drab-erin-meerkat-shoe.cyclic.app/"
 
 
